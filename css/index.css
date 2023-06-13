@@ -1,0 +1,22 @@
+main {
+    text-align: center;
+    margin-top: 200px;
+    background-color: whitesmoke;
+}
+input{
+    padding: 30px 3px;
+    margin: 10px;
+}
+button{
+    border-radius: 5px;
+    background-color:aqua;
+    padding: 10px 3px;
+    cursor: pointer;
+
+}
+#jeux{
+    display: none;
+}
+#fin{
+    display: none;
+}
